@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bggIlyvJ1kctMsKf1fT6KGcmkObFCjZWZhnCFWW28CHZULdsgih+W06oTwQz07S/vVPkxMSA+F78dvk4q8xhPg==",
+  "success": true,
+  "projectFilePath": "D:\\DeviceProgramming\\00Eindopdracht\\EindopdrachtDeviceProgramming\\Eindopdracht\\Eindopdracht\\Eindopdracht.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bertd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bertd\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\bertd\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\bertd\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\bertd\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\bertd\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\bin\Debug\netstandard2.0\Eindopdracht.deps.json
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\bin\Debug\netstandard2.0\Eindopdracht.dll
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\bin\Debug\netstandard2.0\Eindopdracht.pdb
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\obj\Debug\netstandard2.0\Eindopdracht.csproj.AssemblyReference.cache
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\obj\Debug\netstandard2.0\Eindopdracht.GeneratedMSBuildEditorConfig.editorconfig
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\obj\Debug\netstandard2.0\Eindopdracht.AssemblyInfoInputs.cache
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\obj\Debug\netstandard2.0\Eindopdracht.AssemblyInfo.cs
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\obj\Debug\netstandard2.0\Eindopdracht.csproj.CoreCompileInputs.cache
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\obj\Debug\netstandard2.0\XamlC.stamp
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\obj\Debug\netstandard2.0\Eindopdracht.dll
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\obj\Debug\netstandard2.0\refint\Eindopdracht.dll
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\obj\Debug\netstandard2.0\Eindopdracht.pdb
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\obj\Debug\netstandard2.0\ref\Eindopdracht.dll
+D:\DeviceProgramming\00Eindopdracht\EindopdrachtDeviceProgramming\Eindopdracht\Eindopdracht\obj\Debug\netstandard2.0\Views\DetailPage.xaml.g.cs

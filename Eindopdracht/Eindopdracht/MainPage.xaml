@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Eindopdracht.MainPage">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Image Grid.RowSpan="3" Source="https://www.mordeo.org/files/uploads/2021/01/Star-Wars-Logo-4K-Ultra-HD-Mobile-Wallpaper-950x1689.jpg"
+        Aspect="Fill" BackgroundColor="Black" />
+
+        <ListView x:Name="lvwStarWarsPeople" SeparatorColor="White"  >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}" 
+                        Detail="{Binding Gender}" 
+                        DetailColor="#A9BFDD" TextColor="White" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+
+</ContentPage>
